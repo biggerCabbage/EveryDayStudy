@@ -1,0 +1,1 @@
+﻿模板cmo中活动汇总中 submit后tokenToString()方法中的b1取值为什么表格中看不到？

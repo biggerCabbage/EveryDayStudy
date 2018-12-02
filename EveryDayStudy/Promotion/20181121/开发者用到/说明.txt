@@ -1,0 +1,2 @@
+将mscomct2.ocx粘贴到C:\Windows\SysWOW64下这是资源引用，开发时候用到
+OfficeCustomUIEditorSetup可以打开excel文件头部进行编辑，添加修改删除按钮
